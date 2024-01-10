@@ -7,8 +7,8 @@
       </div>
     <table  background="https://catherineasquithgallery.com/uploads/posts/2021-02/1613714175_19-p-myagkii-fon-dlya-prezentatsii-20.jpg">
 <tr>
-  <td width="50" align="center" background="https://catherineasquithgallery.com/uploads/posts/2021-02/1613714175_19-p-myagkii-fon-dlya-prezentatsii-20.jpg">4</td>
-  <td width="50" align="center" background="https://catherineasquithgallery.com/uploads/posts/2021-02/1613714175_19-p-myagkii-fon-dlya-prezentatsii-20.jpg">5</td>
+  <td width="50" align="center" background="https://catherineasquithgallery.com/uploads/posts/2021-02/1613714175_19-p-myagkii-fon-dlya-prezentatsii-20.jpg"></td>
+  <td width="50" align="center" background="https://catherineasquithgallery.com/uploads/posts/2021-02/1613714175_19-p-myagkii-fon-dlya-prezentatsii-20.jpg"></td>
 </tr>
 </table>
   </body>
